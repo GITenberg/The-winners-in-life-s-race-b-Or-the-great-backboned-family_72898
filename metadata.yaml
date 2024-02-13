@@ -1,0 +1,36 @@
+_repo: The-winners-in-life-s-race-b-Or-the-great-backboned-family_72898
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buckley, Arabella B. (Arabella Burton)
+    aliases:
+    - Fisher, Arabella Burton Buckley
+    - Buckley, Arabella Burton
+    birthdate: 1840
+    deathdate: 1929
+    gutenberg_agent_id: '1854'
+    url: http://www.gutenberg.org/2009/agents/1854
+    wikipedia: https://en.wikipedia.org/wiki/Arabella_Buckley
+description: ''
+gutenberg_issued: '2024-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72898'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924099273629
+pgterms:marc905: 20230627110559buckley
+pgterms:marc906: '1883'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bAppleton and Company, $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile literature'
+- !lcsh 'Vertebrates -- Juvenile literature'
+- !lcc 'QL'
+- GITenberg
+title: 'The winners in life''s race : $b Or, the great backboned family'
+url: http://www.gutenberg.org/ebooks/72898
